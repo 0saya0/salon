@@ -1,0 +1,85 @@
+/* スマホ */
+@media(max-width:670px){
+  header{
+    width: 300px;
+  }
+
+  .surfur p{
+    font-size: 12px;
+  }
+
+  .surfur li{
+    font-size: 10px;
+  }
+
+  .credit li{
+    font-size: 5px;
+  }
+}
+
+
+/* タブレット・PC */
+@media(max-width:1000px){
+  header{
+    width: 1100px;
+  }
+
+  .menu{
+    margin-left: 100px;
+  }
+
+  .cover img{
+    width: 1100px;
+  }
+
+  .cover p{
+    margin-left: 100px;
+  }
+
+  .collection{
+    width: 100%;
+  }
+
+  .mouse{
+    margin-left: 90px;
+  }
+
+  .button{
+    margin-left: 110px;
+
+  }
+
+  .concept{
+    width: 1100px;
+  }
+
+  .concept h2{
+    margin-left: 0;
+  }
+
+  .concept-p{
+    width: 1100px;
+  }
+
+  h2{
+    margin-left: 120px;
+  }
+
+  .staff ul{
+    margin-left: 110px;
+  }
+
+  .staff li{
+    width: 40%;
+  }
+
+  footer{
+    width: 1100px;
+  }
+
+  .button-1{
+    margin-left: 0;
+  }
+
+
+}
